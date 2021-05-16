@@ -3,6 +3,7 @@ model
 dataset
 data_loader
 src
+ckpt
 conf.text
 train_deeplabv3+.py
 
